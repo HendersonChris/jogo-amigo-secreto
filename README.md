@@ -28,3 +28,14 @@ Um projeto simples e interativo para sortear amigos secretos. Adicione os nomes 
 
 - Navegador moderno (Chrome, Firefox, Edge, etc.).
 - Conexão com a internet (apenas para carregar as fontes do Google Fonts).
+
+# Estrutura do Projeto
+
+amigo-secreto/
+├── index.html          # Página principal do projeto
+├── style.css           # Estilos CSS
+├── app.js              # Lógica JavaScript
+├── assets/             # Pasta de imagens e ícones
+│   └── amigo-secreto.png
+└── README.md           # Este arquivo
+
